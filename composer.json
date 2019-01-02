@@ -15,5 +15,12 @@
         "psr-4": {
             "Bryt\\Contact\\": "src/"
         }
+    },
+    "extra": {
+        "laravel": {
+            "providers": [
+                "Bryt\\Contact\\ContactServiceProvider"
+            ]
+        }
     }
 }
