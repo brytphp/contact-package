@@ -1,0 +1,19 @@
+{
+    "name": "bryt/contact",
+    "description": "This will send email to admin and save contact in database",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Brytphp",
+            "email": "35575168+brytphp@users.noreply.github.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Bryt\\Contact\\": "src/"
+        }
+    }
+}
